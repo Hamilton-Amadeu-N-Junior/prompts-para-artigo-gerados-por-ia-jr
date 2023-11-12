@@ -26,6 +26,26 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagens
+- [ChatGPT](https://chat.openai.com/) - Para título e conteúdo
+- [Lexica.art](https://lexica.art/) - Para gerar imagens
 - [Canvas](https://www.canva.com/) - Para formatação de banners e Layouts
+
+  Ver inspiração:
+  https://github.com/Hamilton-Amadeu-N-Junior/prompts-for-article-generate-by-ia/blob/main/README.MD
+
+  ## 👨‍💻 Expert
+
+    <a href="https://github.com/felipeAguiarCode">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+felipe-exe">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+---
+
+  ⌨️ com 💜 por [Felipe Aguiar](https://github.com/Hamilton-Amadeu-N-Junior)
