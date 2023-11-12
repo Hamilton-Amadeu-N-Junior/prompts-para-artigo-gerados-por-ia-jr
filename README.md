@@ -66,6 +66,5 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
-<p>
 -
 ⌨️ com 💜 por [Hamilton Amadeu do Nascimento Junior](https://github.com/Hamilton-Amadeu-N-Junior)
