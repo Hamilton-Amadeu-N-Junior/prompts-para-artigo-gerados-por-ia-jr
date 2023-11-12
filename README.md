@@ -43,11 +43,7 @@ ChatGPT：
 |  título  | Crie 10 headlines para nomes de artigos sobre: Como iniciar nas competições do KAGGLE, para não desenvolvedores.                                                                                                                                                                                                   |
 | conteúdo | Quero que sugira uma capa de um livro para o seguinte assunto: Como iniciar nas competições do KAGGLE, para não desenvolvedores. Vencendo no Kaggle Sem Programar: Estratégias e Recursos para Iniciantes sem Experiência Técnica |
 
-| EXTRA | Quero que crie um resumo explicando o porque ler este artigo, use as regras abaixo:
-- Use inspiração de escrita comece pelo porquê do livro simon sinek
-- No máximo 150 palavras 
-- Um CTA no final convidado para ler até o final. 
- |
+| EXTRA | Quero que crie um resumo explicando o porque ler este artigo, use as regras abaixo: - Use inspiração de escrita comece pelo porquê do livro simon sinek - No máximo 150 palavras  - Um CTA no final convidado para ler até o final. |
 
 
 Canvas：
