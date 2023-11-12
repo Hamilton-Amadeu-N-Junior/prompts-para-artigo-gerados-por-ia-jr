@@ -35,6 +35,13 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
   ## 👨‍💻 Expert
 
+    <p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+    />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
@@ -51,4 +58,4 @@ felipe-exe">LinkedIn</a>
     
 ---
 
-  ⌨️ com 💜 por [Felipe Aguiar](https://github.com/Hamilton-Amadeu-N-Junior)
+  ⌨️ com 💜 por [Hamilton Amadeu do Nascimento Junior](https://github.com/Hamilton-Amadeu-N-Junior)
