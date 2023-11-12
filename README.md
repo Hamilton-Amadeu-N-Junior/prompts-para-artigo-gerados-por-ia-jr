@@ -33,6 +33,20 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
   Ver inspiração:
   https://github.com/Hamilton-Amadeu-N-Junior/prompts-for-article-generate-by-ia/blob/main/README.MD
 
+## 📄 Prompts e ferramentas
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
+| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+
+
+Canvas：
+Foi utilizado elementos que retornasse o conceito de competição existente na ferramenta do Kaggle. 
+
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
