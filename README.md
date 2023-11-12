@@ -41,12 +41,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
   <p>&nbsp&nbsp&nbspHamilton Junior<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/Hamilton-Amadeu-N-Junior">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/hamilton-nascimento-egjud/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/hamiltoonamd/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
