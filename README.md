@@ -40,11 +40,12 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre: Como iniciar nas competições do KAGGLE, para não desenvolvedores.                                                                                                                                                                                                   |
+| conteúdo | Quero que sugira uma capa de um livro para o seguinte assunto: Como iniciar nas competições do KAGGLE, para não desenvolvedores. Vencendo no Kaggle Sem Programar: Estratégias e Recursos para Iniciantes sem Experiência Técnica |
 
 
 Canvas：
+
 Foi utilizado elementos que retornasse o conceito de competição existente na ferramenta do Kaggle. 
 
 ## 🛠️ Instruções de execução
