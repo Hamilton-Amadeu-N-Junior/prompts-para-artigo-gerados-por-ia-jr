@@ -51,9 +51,15 @@ Foi utilizado elementos que retornasse o conceito de competição existente na f
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, para criar seu artigo pode contar com ajuda da [@risejuris](https://www.instagram.com/risejuris/).
 
-  ## 👨‍💻 Expert
+## 📚 Materiais
+
+- prompts utilizados
+- ferramentas Canvas
+- Gerenciamento de backlog
+
+## 👨‍💻 Expert
 
   <p>&nbsp&nbsp&nbspHamilton Junior<br>
     &nbsp&nbsp&nbsp
