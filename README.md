@@ -68,4 +68,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <br/><br/>
 <p>
 ---
-  ⌨️ com 💜 por [Hamilton Amadeu do Nascimento Junior](https://github.com/Hamilton-Amadeu-N-Junior)
+⌨️ com 💜 por [Hamilton Amadeu do Nascimento Junior](https://github.com/Hamilton-Amadeu-N-Junior)
