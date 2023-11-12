@@ -39,13 +39,14 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
   ## 👨‍💻 Expert
 
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+  <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/Hamilton-Amadeu-N-Junior">
+    <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/hamilton-nascimento-egjud/">LinkedIn</a>
+    <a href="www.linkedin.com/in/
+felipe-exe">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/hamiltoonamd/">
+    <a href="https://www.instagram.com/felipeaguiar.exe/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
