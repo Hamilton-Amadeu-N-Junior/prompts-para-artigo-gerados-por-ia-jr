@@ -39,7 +39,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
   ## 👨‍💻 Expert
 
-  <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+  <p>&nbsp&nbsp&nbspHamilton Junior<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
