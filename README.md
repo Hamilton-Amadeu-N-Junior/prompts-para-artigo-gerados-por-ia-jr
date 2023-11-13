@@ -6,7 +6,7 @@ Projeto com o objetivo de gerar um artigo técnico
 </p>
 
 <p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
+  <a href="[https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt=](https://web.dio.me/articles/desbravando-o-mundo-das-competicoes-data-science-uma-introducao-descomplicada-ao-kaggle-para-nao-desenvolvedores?back=%2Farticles&open-modal=true&page=1&order=oldest)"DIO - course">
   </a>
   <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
   </a>
